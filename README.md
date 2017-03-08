@@ -10,6 +10,7 @@ https://docs.docker.com/machine/drivers/hyper-v/
 (Replace virtualbox by hyperv)
 docker-machine create dev2 --driver hyperv --hyperv-disk-size "5000" --hyperv-cpu-count 2 --hyperv-memory "4112"
 
-
+I always have a memory error, finally i have disable Hyper-V and launch :
+"Docker Quickstart Terminal"
 
 https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps
